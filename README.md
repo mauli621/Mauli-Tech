@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img width="400" height="400" alt="Swipe Up Hello World GIF by SheCodes" src="https://github.com/user-attachments/assets/459f5c82-4bc3-483d-a314-665af6b86900" />
+  <img width="300" height="300" alt="Swipe Up Hello World GIF by SheCodes" src="https://github.com/user-attachments/assets/459f5c82-4bc3-483d-a314-665af6b86900" />
 
 </p>
 
